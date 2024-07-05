@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: FileRenamerDiff",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\src\\FileRenamerDiff\\FileRenamerDiff.csproj",
+            "launchConfigurationId": "TargetFramework=;FileRenamerDiff"
+        }
+    ]
+}
